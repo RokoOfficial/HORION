@@ -7,6 +7,7 @@ HORION é um framework inteligente de automação e paralelismo Python, projetad
 - Estratégias inteligentes baseadas no tamanho e tipo dos dados.
 - Fácil de adaptar e integrar em outros projetos.
 - Testes automáticos de robustez incluídos.
+- Exemplo de loop de correção em `cot_hmp.py`.
 
 ---
 
